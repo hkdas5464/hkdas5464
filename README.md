@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hkdas5464
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
   @phone-+91-8789369732
