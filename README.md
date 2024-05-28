@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hkdas5464
+- 👋 Hi, I’m Harendra
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning React-Native
 - 💞️ I’m looking to collaborate on ...
